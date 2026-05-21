@@ -1,27 +1,35 @@
-💀
+# 💀 Hi, I'm Levi
 
-**Learning Full-Stack Development**
+**`Full-Stack Developer / Problem Solver`**
 
-# Levi | BuiltByLevi
-
-💀
-
-**Learning Full-Stack Development**
+I turn ideas into functional, clean code. Every commit is a small step toward building things that matter.
 
 ---
 
-## Know About Me
+## 🔨 What I'm Building
 
-Code is never finished. It only becomes slightly less terrible over time.
+- **My main project** – A brief, intriguing description of what it does.
+- **Learning in public** – Currently diving deep into **TypeScript & Next.js**.
+- **Side quest** – Automating something boring (because that's what developers do).
 
-Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+---
 
-## Pinned
+## 🧰 Tech I Use
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=YOUR_REPO_NAME_1&theme=dark&bg_color=0D0F14&title_color=00FFCC&icon_color=FF007F&text_color=E0E0FF&hide_border=true)](https://github.com/BuiltByLevi/YOUR_REPO_NAME_1)
+`JavaScript` `TypeScript` `React` `Node.js` `Python` `Git`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=YOUR_REPO_NAME_2&theme=dark&bg_color=0D0F14&title_color=00FFCC&icon_color=FF007F&text_color=E0E0FF&hide_border=true)](https://github.com/BuiltByLevi/YOUR_REPO_NAME_2)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=YOUR_REPO_NAME_3&theme=dark&bg_color=0D0F14&title_color=00FFCC&icon_color=FF007F&text_color=E0E0FF&hide_border=true)](https://github.com/BuiltByLevi/YOUR_REPO_NAME_3)
+## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=YOUR_REPO_NAME_4&theme=dark&bg_color=0D0F14&title_color=00FFCC&icon_color=FF007F&text_color=E0E0FF&hide_border=true)](https://github.com/BuiltByLevi/YOUR_REPO_NAME_4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0D0F14&title_color=00FFCC&text_color=E0E0FF)](https://github.com/BuiltByLevi/REPO_NAME_1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0D0F14&title_color=00FFCC&text_color=E0E0FF)](https://github.com/BuiltByLevi/REPO_NAME_2)
+
+---
+
+## 📫 Find me elsewhere
+
+- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** [yourname](https://linkedin.com/in/yourname)
+- **Personal site:** [builtbylevi.dev](https://builtbylevi.dev)
