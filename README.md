@@ -1,30 +1,34 @@
 <div align="center">
-  <h1>Hello, I’m Levi 👋</h1>
+  <h1>Hello, I'm Levi 👋</h1>
   <p>
-    <strong>Software Engineer</strong><br/>
-    Fullstack Developer • Mobile • UI/UX
+    <strong>Software Engineer • Automation Developer</strong><br/>
+    Fullstack • Mobile • UI/UX
   </p>
 
   <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
-/>
-
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
+  />
 </div>
 
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About Me
 
-I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products**.
+I'm a **Computer Science student** and Software Developer with **2 years as an Automation Engineer** and **2 years building full-stack applications**. I turn ideas into solid, scalable, and well-designed digital products.
 
-I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
+I work from **backend to interface**—prioritizing **clean architecture**, **code organization**, and **user experience**.
 
-I am currently developing **Upon**, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
+| Role | Focus |
+|------|-------|
+| Automation Engineer (2 yrs) | Python, CI/CD, test automation, workflow optimization |
+| Software Developer (2 yrs) | React, AI/ML, full-stack applications |
 
-- ▸ **Main project:** **Upon** monorepo (NestJS + React Native)
+**Currently building:** **Upon** – a complete market product combining robust backend (NestJS), mobile application (React Native), and well-defined UX designed in Figma.
+
+**Beyond code:** High-complexity Public Administration systems & writing stories
+
 - ▸ **Technical interests:** System architecture, well-designed APIs, and mobile applications
 - ▸ **UI/UX:** Prototyping and modern interface design with Figma
-- ▸ **Beyond code:** I work with high-complexity systems for Public Administration and write stories in my spare time
 
 ---
 
@@ -38,29 +42,55 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 ### ◈ Back-end
 <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+
+### ◈ Automation & AI/ML
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/CI/CD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 
 ### ◈ Infra & Design
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
 
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Pinned Projects
 
 <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
+  <a href="https://github.com/BuiltByLevi/upon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=upon&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E0FF" />
+  </a>
+  <a href="https://github.com/BuiltByLevi/automation-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuiltByLevi&repo=automation-scripts&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E0FF" />
+  </a>
+</div>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="mailto:alexneto510@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandre-lopes-97352b287" target="_blank">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
+  <a href="https://github.com/BuiltByLevi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuiltByLevi&color=8B5CF6&style=flat-square&label=Profile+Views" />
 </div>
