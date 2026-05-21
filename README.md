@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I’m Levi 👋</h1>
   <p>
-    <strong>Computer Science Student</strong><br/>
+    <strong>Software Engineer</strong><br/>
     Fullstack Developer • Mobile • UI/UX
   </p>
 
